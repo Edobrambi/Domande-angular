@@ -1,0 +1,4 @@
+1)angular cli è un utility per sviluppo di app
+2)git pod è una macchina virtuale
+3)git remote -v
+4)ng new angular gitpod

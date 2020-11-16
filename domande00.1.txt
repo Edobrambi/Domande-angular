@@ -1,0 +1,23 @@
+1)npm i -g @angular/cli
+2)del codice per inizializzare una pagina html
+3)app-root è un componente definito
+dalla nostra applicazione Angular
+4)ng new angular nomedelprogetto
+
+1) ng generate component nomecomponente
+2)per dichiarare le indipendenze
+3)dichiarare un componente
+a)per copiare il codice che trova nel link ognivolta che viene utilizzato il tag
+b)per specificare ad angular dove reperire il foglio di stile che modificherà
+l'aspetto del template
+c)per utilizzare le altre informazioni
+4)aggiungiendo il tag componente al modello già esistente
+5)
+@Component({
+  selector: 'app-hello-world',
+  templateUrl: './hello-world.component.html',
+  styleUrls: ['./hello-world.component.css']
+})
+6)per mettere dentro gli script
+7)un controller è semplice oggetto Javascript
+8)
